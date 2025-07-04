@@ -1,8 +1,8 @@
 # ini adalah float yaitu tipe data bilangan desimal positif maupun negatif
 # contoh
 
-angka1 = 2.1
-angka2 = 3.2
+nilai1 = 2.1
+nilai2 = 3.2
 
-print(angka1)
-print(angka2)
+print(nilai1)
+print(nilai2)
